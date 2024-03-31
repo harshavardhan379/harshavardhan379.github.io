@@ -11,7 +11,7 @@ external-image: false
 picture: assets/images/15f64ef65d4a7b9f3d0ffd18ac34b288.jpg
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: light
+dark-theme: False
 
 # If you want to include your resume, set it to true
 # and specify the source (external or local).
