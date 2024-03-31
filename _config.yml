@@ -1,5 +1,5 @@
 # main text of home
-title: John Doe
+title: Harshavardhan Srinivas P
 bio: A Person who travels the world eating noodles
 
 # twitter summary info
@@ -8,57 +8,50 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
-
+picture: assets/images/15f64ef65d4a7b9f3d0ffd18ac34b288.jpg
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: light
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
+# If you want to include your resume, set it to true
+# and specify the source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-URL: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+URL: https://harshavardhan379.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
-# To enable google analytics, supply your token below
+# To enable Google Analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 
-# if you don't want comments in your posts, leave categories empty
+# If you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  short name: github # Enter this from your Disqus account
+  categories: [blog, project] # only show Disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Harsha:
+    name: Harshavardhan Srinivas
+    bio: A Man who travels within India eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/15f64ef65d4a7b9f3d0ffd18ac34b288.jpg
+   # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
